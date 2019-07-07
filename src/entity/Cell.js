@@ -228,7 +228,7 @@ Cell.prototype.calcMove = function(x2, y2, gameServer) {
     }
     if (y1 < config.borderTop) {
         y1 = config.borderTop;
-		 this.owner.HP--;
+		 
 				  
 				   
     }
